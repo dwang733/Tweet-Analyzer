@@ -1,0 +1,4 @@
+oauth2
+psycopg2-binary
+Flask
+requests
